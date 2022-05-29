@@ -1,0 +1,29 @@
+{
+  "name": "Gateway",
+  "version": "1.0.3",
+  "rev": "220424",
+  "description": "An embedded Gateway for MMM-GoogleAssistant for MagicMirror.",
+  "main": "Gateway.js",
+  "scripts": {
+    "preinstall": "installer/preinstall.sh",
+    "postinstall": "installer/postinstall.sh",
+    "update": "installer/update.sh"
+  },
+  "keywords": [
+    "magic mirror",
+    "module",
+    "Google",
+    "plugins",
+    "Gateway"
+  ],
+  "author": "bugsounet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://forum.bugsounet.fr"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bugsounet/Gateway"
+  },
+  "homepage": "https://wiki.bugsounet.fr/en/Gateway"
+}
