@@ -8,7 +8,7 @@ Bu eklenti sayesinde, Pamuk Prenses ve Yedi Cüceler masalındaki gibi aynanın 
 
 Projenin detaylı bilgisi için [Proje Adımları](https://github.com/kayaemre134220003/SmartM/wiki/SmartM-UYGULAMA-ADIMLARI)  sayfasına gidebilirsiniz.
 
-Ayrıca bu projeyi gerçek hayata geçirilmesine vesile olan Marmara Üniversitesinde görevli **Dr.Öğr.Üyesi SERKAN AYDIN** hocamıza teşekkürü bir borç bilirim:)
+Ayrıca bu projeyi gerçek hayata geçirilmesine vesile olan Marmara Üniversitesi Teknik Bilimler Meslek Yüksekokulu Elektronik ve Otomasyon Bölümünde görevli **Dr.Öğr.Üyesi SERKAN AYDIN** hocamıza teşekkürü bir borç bilirim:)
 
 **SmartM gösterimi**
 
