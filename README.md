@@ -8,11 +8,11 @@ Bu eklenti sayesinde, Pamuk Prenses ve Yedi Cüceler masalındaki gibi aynanın 
 
 Projenin detaylı bilgisi için [Proje Adımları](https://github.com/kayaemre134220003/SmartM/wiki/SmartM-UYGULAMA-ADIMLARI)  sayfasına gidebilirsiniz.
 
-													**SmartM gösterimi**
+**SmartM gösterimi**
 
 ![SmartM](https://user-images.githubusercontent.com/105670080/171802624-b4e0d884-d42b-44a3-8ac9-c514488d7565.jpg)
 
 
-		**SmartM GoogleAssistant Test Videosu :)**
+**SmartM GoogleAssistant Test Videosu :)**
 
 https://user-images.githubusercontent.com/105670080/171803848-69f25dfd-1312-491a-9063-1d1d41947c4a.mp4
